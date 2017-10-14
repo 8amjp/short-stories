@@ -90,12 +90,12 @@
 
 「受け入れられないとか言っても……もう終わりにしよう。さよなら」
 
-『401 Unauthorized.』
-『100 Continue.』
-『100 Continue.』
+『401 Unauthorized.』  
+『100 Continue.』  
+『100 Continue.』  
 
 『……』
 
-『……410 Gone.』
-『……301 Moved Permanently.』
+『……410 Gone.』  
+『……301 Moved Permanently.』  
 『……500 Internal Server Error.』
