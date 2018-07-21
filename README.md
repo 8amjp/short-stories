@@ -8,3 +8,4 @@
 * [ヒトカタシロ](episodes/hitokatashiro.md)
 * [モデルケース](episodes/modelcase.md)
 * [贈る言葉](episodes/okurukotoba.md)
+* [マン・オン・ザ・マンホール](episodes/man-on-the-manhole.md)
