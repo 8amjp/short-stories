@@ -38,6 +38,6 @@
   },
   "homepage": "https://github.com/8novels/contes#readme",
   "dependencies": {
-    "novel-builder": "latest"
+    "novel-builder": "^0.4.3"
   }
 }
